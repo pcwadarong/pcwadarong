@@ -13,64 +13,64 @@
 
 <!-- Python C -->
 <div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
 </div>
 
 ### Library & Framework
 
 <div>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <!-- <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js"/> -->
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <!-- <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" alt="Three.js"/> -->
 </div>
 
 ### UI Libraries
 
 <!-- Chakra, Styled Components, Emotion -->
 <div>
-  <img src="https://img.shields.io/badge/Sass-EC57A3?logo=sass&logoColor=white&style=flat-square" alt="Sass"/>
-  <img src="https://img.shields.io/badge/Tailwind CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Material UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcn/ui&logoColor=white" alt="Shadcn/UI"/>
+  <img src="https://img.shields.io/badge/Sass-EC57A3?logo=sass&logoColor=white&style=flat" alt="Sass"/>
+  <img src="https://img.shields.io/badge/Tailwind CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Material UI-007FFF?style=flat&logo=mui&logoColor=white" alt="Material UI"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcn/ui&logoColor=white" alt="Shadcn/UI"/>
 </div>
 
 <!-- ### App
 
 <div>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/React Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/React Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" alt="Expo"/>
 </div> -->
 
 ### State Management
 
 <div>
-  <!-- <img src="https://img.shields.io/badge/👻 Jotai-000000?style=flat-square&logo=none&logoColor=white" alt="Jotai"/> -->
-  <img src="https://img.shields.io/badge/Tanstack Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="Tanstack Query"/>
-  <img src="https://img.shields.io/badge/🐻 Zustand-ECB63F?style=flat-square&logo=none&logoColor=white" alt="Zustand"/>
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white" alt="Recoil"/>
+  <!-- <img src="https://img.shields.io/badge/👻 Jotai-000000?style=flat&logo=none&logoColor=white" alt="Jotai"/> -->
+  <img src="https://img.shields.io/badge/Tanstack Query-FF4154?style=flat&logo=reactquery&logoColor=white" alt="Tanstack Query"/>
+  <img src="https://img.shields.io/badge/🐻 Zustand-ECB63F?style=flat&logo=none&logoColor=white" alt="Zustand"/>
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white" alt="Recoil"/>
 </div>
 
 <!-- ### Animation
 
 <div>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP"/>
-  <img src="https://img.shields.io/badge/React Spring-88CE02?style=flat-square&logo=react&logoColor=white" alt="React Spring"/>
-  <img src="https://img.shields.io/badge/Framer Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white" alt="GSAP"/>
+  <img src="https://img.shields.io/badge/React Spring-88CE02?style=flat&logo=react&logoColor=white" alt="React Spring"/>
+  <img src="https://img.shields.io/badge/Framer Motion-0055FF?style=flat&logo=framer&logoColor=white" alt="Framer Motion"/>
 </div> -->
 
 ### Data
 
 <div>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
-  <img src="https://img.shields.io/badge/REST API-02569B?style=flat-square&logo=iCloud&logoColor=white" alt="REST API"/>
-  <img src="https://img.shields.io/badge/Fetch API-005571?style=flat-square&logo=iCloud&logoColor=white" alt="Fetch API"/>
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios"/>
+<!--   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/REST API-02569B?style=flat&logo=iCloud&logoColor=white" alt="REST API"/> -->
+  <img src="https://img.shields.io/badge/Fetch API-005571?style=flat&logo=iCloud&logoColor=white" alt="Fetch API"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" alt="Axios"/>
 </div>
 
 ### Deployment & Backend
@@ -102,8 +102,8 @@ storybook은 공통 컴포넌트를 개발하고 올려두는 역할, 문서와 
  -->
 
 <div>
-  <!-- <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest"/>
-  <img src="https://img.shields.io/badge/React Testing Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" alt="React Testing Library"/> -->
+  <!-- <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest"/>
+  <img src="https://img.shields.io/badge/React Testing Library-E33332?style=flat&logo=testinglibrary&logoColor=white" alt="React Testing Library"/> -->
   <img src="https://img.shields.io/badge/MSW-FF6A33?style=flat&logo=mockServiceWorker&logoColor=white" alt="MSW"/>
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black" alt="Prettier"/>
   <img src="https://img.shields.io/badge/Eslint-4B32C3?style=flat&logo=eslint&logoColor=white" alt="ESlint"/>
@@ -113,7 +113,7 @@ storybook은 공통 컴포넌트를 개발하고 올려두는 역할, 문서와 
 ### Cowork Tools
 
 <div>
-  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" alt="Storybook"/>
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white" alt="Storybook"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Slack-36C5F0?style=flat&logo=Slack&logoColor=white" alt="Slack"/>
@@ -126,8 +126,8 @@ storybook은 공통 컴포넌트를 개발하고 올려두는 역할, 문서와 
 ### Package Managing
 
 <div>
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" alt="NPM"/>
-  <!-- <img src="https://img.shields.io/badge/PNPM-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="PNPM"/>
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" alt="Yarn"/> -->
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" alt="NPM"/>
+  <!-- <img src="https://img.shields.io/badge/PNPM-F69220?style=flat&logo=pnpm&logoColor=white" alt="PNPM"/>
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white" alt="Yarn"/> -->
 </div>
 
