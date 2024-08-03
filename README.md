@@ -26,10 +26,13 @@
 
 #### UI Libraries
 
-<!-- Chakra, Styled Components, Emotion -->
+<!-- Styled Components, Emotion -->
+
 <div>
-  <img src="https://img.shields.io/badge/Sass-CDE1FF?logo=sass&logoColor=black&style=flat" alt="Sass"/>
+ <img src="https://img.shields.io/badge/Sass-CDE1FF?logo=sass&logoColor=black&style=flat" alt="Sass"/>
   <img src="https://img.shields.io/badge/Tailwind CSS-CDE1FF?style=flat&logo=tailwindcss&logoColor=black" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Styled Components-CDE1FF?logo=styledComponents&logoColor=black&style=flat" alt="Styled Components"/>
+  <img src="https://img.shields.io/badge/Chakra-CDE1FF?logo=chakraUi&logoColor=black&style=flat" alt="Chakra"/>
   <img src="https://img.shields.io/badge/Material UI-CDE1FF?style=flat&logo=mui&logoColor=black" alt="Material UI"/>
   <img src="https://img.shields.io/badge/Bootstrap-CDE1FF?style=flat&logo=bootstrap&logoColor=black" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/shadcn/ui-CDE1FF?style=flat&logo=shadcn/ui&logoColor=black" alt="Shadcn/UI"/>
@@ -60,29 +63,19 @@
   <img src="https://img.shields.io/badge/Framer Motion-E2F4D1?style=flat&logo=framer&logoColor=black" alt="Framer Motion"/>
 </div> -->
 
-#### Data
+#### Data & Deployment & Authentication
 
 <div>
 <!--   <img src="https://img.shields.io/badge/GraphQL-FEFCD7?style=flat&logo=graphql&logoColor=black" alt="GraphQL"/>
-  <img src="https://img.shields.io/badge/REST API-FEFCD7?style=flat&logo=iCloud&logoColor=black" alt="REST API"/> -->
+  <img src="https://img.shields.io/badge/REST API-FEFCD7?style=flat&logo=iCloud&logoColor=black" alt="REST API"/>
+ <img src="https://img.shields.io/badge/OAuth-FEFCD7?style=flat&logo=oauth&logoColor=black" alt="OAuth"/>
+ <img src="https://img.shields.io/badge/JWT-FEFCD7?style=flat&logo=JSON Web Tokens&logoColor=black" alt="JWT"/>
+<img src="https://img.shields.io/badge/NextAuth-FEFCD7?style=flat&logo=nextdotjs&logoColor=black" alt="NextAuth"/> -->
   <img src="https://img.shields.io/badge/Fetch API-FEFCD7?style=flat&logo=iCloud&logoColor=black" alt="Fetch API"/>
   <img src="https://img.shields.io/badge/Axios-FEFCD7?style=flat&logo=axios&logoColor=black" alt="Axios"/>
-</div>
-
-#### Deployment & Backend
-
-<div>
-  <img src="https://img.shields.io/badge/Firebase-FFE6D8?style=flat&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Vercel-FFE6D8?style=flat&logo=vercel&logoColor=black" alt="Vercel"/>
-</div>
-
-#### Authentication
-
-<div>
-  <!-- <img src="https://img.shields.io/badge/NextAuth-FFD8D8?style=flat&logo=nextdotjs&logoColor=black" alt="NextAuth"/> -->
-  <img src="https://img.shields.io/badge/Firebase Authentication-FFD8D8?style=flat&logo=firebase&logoColor=black" alt="Firebase Authentication"/>
-  <!-- <img src="https://img.shields.io/badge/OAuth-FFD8D8?style=flat&logo=oauth&logoColor=black" alt="OAuth"/>
-  <img src="https://img.shields.io/badge/JWT-FFD8D8?style=flat&logo=JSON Web Tokens&logoColor=black" alt="JWT"/> -->
+ <img src="https://img.shields.io/badge/Firebase-FEFCD7?style=flat&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Vercel-FEFCD7?style=flat&logo=vercel&logoColor=black" alt="Vercel"/>
+ <img src="https://img.shields.io/badge/Firebase Authentication-FEFCD7?style=flat&logo=firebase&logoColor=black" alt="Firebase Authentication"/>
 </div>
 
 #### Testing
@@ -123,7 +116,7 @@ storybook은 공통 컴포넌트를 개발하고 올려두는 역할, 문서와 
 
 <div>
   <img src="https://img.shields.io/badge/NPM-EAFED7?style=flat&logo=npm&logoColor=black" alt="NPM"/>
-  <!-- <img src="https://img.shields.io/badge/PNPM-EAFED7?style=flat&logo=pnpm&logoColor=black" alt="PNPM"/>
-  <img src="https://img.shields.io/badge/Yarn-EAFED7?style=flat&logo=yarn&logoColor=black" alt="Yarn"/> -->
+  <!-- <img src="https://img.shields.io/badge/PNPM-EAFED7?style=flat&logo=pnpm&logoColor=black" alt="PNPM"/> -->
+  <img src="https://img.shields.io/badge/Yarn-EAFED7?style=flat&logo=yarn&logoColor=black" alt="Yarn"/>
 </div>
 
