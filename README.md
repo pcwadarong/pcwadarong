@@ -1,8 +1,8 @@
-## Hi, I'm Chaen! <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpcwadarong&count_bg=%23AEDAEB&title_bg=%239E9E9E&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true" align="right"/></a>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=pcwadarong&show_icons=true&theme=buefy" alt="Chaen's GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcwadarong&layout=compact&theme=buefy" alt="Top Langs" height="160" />
+</div>
 
-💻 FE Web Developer <br>
-🖌️ HONGIK Univ. Design Convergence <br>
- <br>
 ## Teck Stack
 
 #### Languages
