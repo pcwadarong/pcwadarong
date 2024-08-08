@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcwadarong&layout=compact&theme=buefy" alt="Top Langs" height="160" />
 </div>
 
-## Teck Stack
+## Skills
 
 #### Languages
 
