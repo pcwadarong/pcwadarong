@@ -55,13 +55,13 @@
   <img src="https://img.shields.io/badge/Recoil-D1F4EF?style=flat&logo=recoil&logoColor=black" alt="Recoil"/>
 </div>
 
-<!-- #### Animation
+#### Animation
 
 <div>
-  <img src="https://img.shields.io/badge/GSAP-E2F4D1?style=flat&logo=greensock&logoColor=black" alt="GSAP"/>
-  <img src="https://img.shields.io/badge/React Spring-E2F4D1?style=flat&logo=react&logoColor=black" alt="React Spring"/>
+<!-- <img src="https://img.shields.io/badge/GSAP-E2F4D1?style=flat&logo=greensock&logoColor=black" alt="GSAP"/>
+<img src="https://img.shields.io/badge/React Spring-E2F4D1?style=flat&logo=react&logoColor=black" alt="React Spring"/> -->
   <img src="https://img.shields.io/badge/Framer Motion-E2F4D1?style=flat&logo=framer&logoColor=black" alt="Framer Motion"/>
-</div> -->
+</div>
 
 #### Data & Deployment & Authentication
 
