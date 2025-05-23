@@ -62,8 +62,8 @@
 #### Animation
 
 <div>
-<!-- <img src="https://img.shields.io/badge/GSAP-E2F4D1?style=flat&logo=greensock&logoColor=black" alt="GSAP"/> <!-- [추천] 강력한 타임라인 기반 애니메이션 -->
-  <img src="https://img.shields.io/badge/React Spring-E2F4D1?style=flat&logo=react&logoColor=black" alt="React Spring"/> -->
+<!-- <img src="https://img.shields.io/badge/GSAP-E2F4D1?style=flat&logo=greensock&logoColor=black" alt="GSAP"/>--> <!-- [추천] 강력한 타임라인 기반 애니메이션 -->
+<!-- <img src="https://img.shields.io/badge/React Spring-E2F4D1?style=flat&logo=react&logoColor=black" alt="React Spring"/> -->
   <img src="https://img.shields.io/badge/Framer Motion-E2F4D1?style=flat&logo=framer&logoColor=black" alt="Framer Motion"/>
 </div>
 
