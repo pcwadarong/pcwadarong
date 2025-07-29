@@ -82,7 +82,7 @@
   <img src="https://img.shields.io/badge/Firebase Admin SDK-FEFCD7?style=flat&logo=firebase&logoColor=black" alt="Firebase Admin SDK"/>
 </div>
 
-#### Testing & Code Quality
+#### Testing & Validation
 
 <!-- 
 정적 테스트 (실행 x 테스트) - eslint, prettier
@@ -95,22 +95,20 @@ storybook은 공통 컴포넌트를 개발하고 올려두는 역할, 문서와 
  -->
 
 <div>
-  <!-- <img src="https://img.shields.io/badge/Jest-FED7F3?style=flat&logo=jest&logoColor=black" alt="Jest"/>
-  <img src="https://img.shields.io/badge/React Testing Library-FED7F3?style=flat&logo=testinglibrary&logoColor=black" alt="React Testing Library"/> -->
+  <img src="https://img.shields.io/badge/Jest-FED7F3?style=flat&logo=jest&logoColor=black" alt="Jest"/>
+  <img src="https://img.shields.io/badge/Mocha-FED7F3?style=flat&logo=mocha&logoColor=black" alt="Mocha"/>
+  <!--<img src="https://img.shields.io/badge/React Testing Library-FED7F3?style=flat&logo=testinglibrary&logoColor=black" alt="React Testing Library"/> -->
   <!-- <img src="https://img.shields.io/badge/Playwright-FED7F3?style=flat&logo=microsoft&logoColor=black" alt="Playwright"/> --> <!-- [추천] UI 기반 e2e 테스트에 강력 -->
   <img src="https://img.shields.io/badge/MSW-FED7F3?style=flat&logo=mockServiceWorker&logoColor=black" alt="MSW"/>
   <img src="https://img.shields.io/badge/Prettier-FED7F3?style=flat&logo=prettier&logoColor=black" alt="Prettier"/>
   <img src="https://img.shields.io/badge/ESLint-FED7F3?style=flat&logo=eslint&logoColor=black" alt="ESLint"/>
   <img src="https://img.shields.io/badge/Stylelint-FED7F3?style=flat&logo=stylelint&logoColor=black" alt="Stylelint"/>
   <img src="https://img.shields.io/badge/Biome-FED7F3?style=flat&logo=biome&logoColor=black" alt="Biome"/>
+  <img src="https://img.shields.io/badge/Zod-FED7F3?style=flat&logo=zod&logoColor=black" alt="Zod"/>
 </div>
-
-#### Schema & Validation
-
-<div>
-  <img src="https://img.shields.io/badge/Zod-D7FEE0?style=flat&logo=zod&logoColor=black" alt="Zod"/>
   <!-- <img src="https://img.shields.io/badge/Yup-D7FEE0?style=flat&logo=yup&logoColor=black" alt="Yup"/> --> <!-- [추천] Form validation에 직관적인 API -->
-</div>
+
+<!-- D7FEE0 -->
 
 #### Tools & Collaboration
 
