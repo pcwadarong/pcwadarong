@@ -1,14 +1,14 @@
 <div align="center">
 
-  <!-- ✨ HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:cde1ff,100:ffd6f5&fontColor=353535&height=200&section=header&text=chaewon&fontSize=85&animation=fadeIn" />
+  <!-- 🌈 HEADER BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:a9cef8,100:ffd6f5&fontColor=2f2f2f&height=200&section=header&text=chaewon&fontSize=85&animation=fadeIn" />
 
   <br/>
-  <p><strong>FE developer focused on user experience and visually refined, interactive UI.</strong></p>
+  <p><strong>Frontend developer focused on user experience and visually refined, interactive UI.</strong></p>
   <br/>
 
-  🚀 NAVER Connect Foundation <strong>Boostcamp Web·Mobile 10th</strong> <br/>
-  🚀 <strong>2024 OSSCA</strong> — Githru VS Code Extension Contributor <br/>
+  💡 NAVER Connect Foundation <strong>Boostcamp Web·Mobile 10th</strong> <br/>
+  ✨ <strong>2024 OSSCA</strong> — Githru VS Code Extension Contributor <br/>
   🎓 <strong>Korea National Open University</strong>, BS in Computer Science <br/>
   🎓 <strong>Hongik University</strong>, BA in Design Convergence
   <br/><br/>
@@ -19,50 +19,51 @@
 
   <!-- 🩵 Frontend -->
   <div>
-    <img src="https://img.shields.io/badge/TypeScript-FDDCFF?style=flat&logo=typescript&logoColor=black" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/React-FDDCFF?style=flat&logo=react&logoColor=black" alt="React"/>
-    <img src="https://img.shields.io/badge/Next.js-FDDCFF?style=flat&logo=nextdotjs&logoColor=black" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/Vite-FDDCFF?style=flat&logo=vite&logoColor=black" alt="Vite"/>
+    <img src="https://img.shields.io/badge/TypeScript-D8EFFF?style=flat&logo=typescript&logoColor=1b1b1b" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/React-D8EFFF?style=flat&logo=react&logoColor=1b1b1b" alt="React"/>
+    <img src="https://img.shields.io/badge/Next.js-D8EFFF?style=flat&logo=nextdotjs&logoColor=1b1b1b" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/Vite-D8EFFF?style=flat&logo=vite&logoColor=1b1b1b" alt="Vite"/>
   </div>
 
   <div>
-    <img src="https://img.shields.io/badge/Sass-EAD9FF?style=flat&logo=sass&logoColor=black" alt="Sass"/>
-    <img src="https://img.shields.io/badge/TailwindCSS-EAD9FF?style=flat&logo=tailwindcss&logoColor=black" alt="TailwindCSS"/>
-    <img src="https://img.shields.io/badge/Framer Motion-EAD9FF?style=flat&logo=framer&logoColor=black" alt="Framer Motion"/>
+    <img src="https://img.shields.io/badge/Sass-EAD9FF?style=flat&logo=sass&logoColor=1b1b1b" alt="Sass"/>
+    <img src="https://img.shields.io/badge/TailwindCSS-EAD9FF?style=flat&logo=tailwindcss&logoColor=1b1b1b" alt="TailwindCSS"/>
+    <img src="https://img.shields.io/badge/Framer Motion-EAD9FF?style=flat&logo=framer&logoColor=1b1b1b" alt="Framer Motion"/>
   </div>
 
   <br/>
 
   <!-- 💛 Backend / Server -->
   <div>
-    <img src="https://img.shields.io/badge/Node.js-FEFCD7?style=flat&logo=nodedotjs&logoColor=black" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Express.js-FEFCD7?style=flat&logo=express&logoColor=black" alt="Express.js"/>
-    <img src="https://img.shields.io/badge/NestJS-FEFCD7?style=flat&logo=nestjs&logoColor=black" alt="NestJS"/>
-    <img src="https://img.shields.io/badge/MySQL-FEFCD7?style=flat&logo=mysql&logoColor=black" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/Node.js-FEFCD7?style=flat&logo=nodedotjs&logoColor=1b1b1b" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Express.js-FEFCD7?style=flat&logo=express&logoColor=1b1b1b" alt="Express.js"/>
+    <img src="https://img.shields.io/badge/NestJS-FEFCD7?style=flat&logo=nestjs&logoColor=1b1b1b" alt="NestJS"/>
+    <img src="https://img.shields.io/badge/MySQL-FEFCD7?style=flat&logo=mysql&logoColor=1b1b1b" alt="MySQL"/>
   </div>
 
   <br/>
 
   <!-- 🪴 State / Data -->
   <div>
-    <img src="https://img.shields.io/badge/Tanstack Query-D1F4EF?style=flat&logo=reactquery&logoColor=black" alt="Tanstack Query"/>
-    <img src="https://img.shields.io/badge/Zustand-D1F4EF?style=flat&logo=none&logoColor=black" alt="Zustand"/>
-    <img src="https://img.shields.io/badge/Recoil-D1F4EF?style=flat&logo=recoil&logoColor=black" alt="Recoil"/>
+    <img src="https://img.shields.io/badge/Tanstack Query-D1F4EF?style=flat&logo=reactquery&logoColor=1b1b1b" alt="Tanstack Query"/>
+    <img src="https://img.shields.io/badge/Zustand-D1F4EF?style=flat&logo=none&logoColor=1b1b1b" alt="Zustand"/>
+    <img src="https://img.shields.io/badge/Recoil-D1F4EF?style=flat&logo=recoil&logoColor=1b1b1b" alt="Recoil"/>
   </div>
 
   <br/>
 
   <!-- 🌿 Tools / Collaboration -->
   <div>
-    <img src="https://img.shields.io/badge/Figma-CDE1FF?style=flat&logo=figma&logoColor=black" alt="Figma"/>
-    <img src="https://img.shields.io/badge/Git-CDE1FF?style=flat&logo=git&logoColor=black" alt="Git"/>
-    <img src="https://img.shields.io/badge/Vercel-CDE1FF?style=flat&logo=vercel&logoColor=black" alt="Vercel"/>
+    <img src="https://img.shields.io/badge/Figma-CDE1FF?style=flat&logo=figma&logoColor=1b1b1b" alt="Figma"/>
+    <img src="https://img.shields.io/badge/Git-CDE1FF?style=flat&logo=git&logoColor=1b1b1b" alt="Git"/>
+    <img src="https://img.shields.io/badge/Vercel-CDE1FF?style=flat&logo=vercel&logoColor=1b1b1b" alt="Vercel"/>
   </div>
 
   <br/><br/>
 
   <!-- 📊 GITHUB STATS -->
   <img src="https://github-readme-stats.vercel.app/api?username=pcwadarong&show_icons=true&theme=buefy" alt="Chaewon's GitHub stats" height="160" />
+
   <br/><br/>
 
   <!-- 🤝 CONNECT SECTION -->
@@ -80,4 +81,3 @@
 <!--<img src="https://img.shields.io/badge/React Testing Library-FED7F3?style=flat&logo=testinglibrary&logoColor=black" alt="React Testing Library"/> -->
 <!-- <img src="https://img.shields.io/badge/Playwright-FED7F3?style=flat&logo=microsoft&logoColor=black" alt="Playwright"/> -->
 <!--   <img src="https://img.shields.io/badge/Storybook-D8EFFF?style=flat&logo=storybook&logoColor=black" alt="Storybook"/> -->
-<!-- <img src="https://img.shields.io/badge/PNPM-EAFED7?style=flat&logo=pnpm&logoColor=black" alt="PNPM"/> --> <!-- [추천] 빠른 설치 속도, monorepo에 적합 -->
