@@ -26,9 +26,10 @@
   </div>
 
   <div>
+    <img src="https://img.shields.io/badge/Framer Motion-EAD9FF?style=flat&logo=framer&logoColor=1b1b1b" alt="Framer Motion"/>
+    <img src="https://img.shields.io/badge/Three.js-EAD9FF?style=flat&logo=three.js&logoColor=1b1b1b" alt="Three.js"/>
     <img src="https://img.shields.io/badge/Sass-EAD9FF?style=flat&logo=sass&logoColor=1b1b1b" alt="Sass"/>
     <img src="https://img.shields.io/badge/TailwindCSS-EAD9FF?style=flat&logo=tailwindcss&logoColor=1b1b1b" alt="TailwindCSS"/>
-    <img src="https://img.shields.io/badge/Framer Motion-EAD9FF?style=flat&logo=framer&logoColor=1b1b1b" alt="Framer Motion"/>
   </div>
 
   <br/>
